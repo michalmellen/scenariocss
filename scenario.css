@@ -1,8 +1,15 @@
-<style>
+html {
+#content .flex-row {
+  background-color: #fff;
+}
+ .flex-row {
+  background-color: #fff;
+}
+}
 #content .flex-row {
   background-color: #fff;
 }
 .header {
   display: none;
 }
-</style>
+
