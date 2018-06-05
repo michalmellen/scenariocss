@@ -1,5 +1,8 @@
 <style>
-.flex-row {
+#content .flex-row {
   background-color: #fff;
+}
+.header {
+  display: none;
 }
 </style>
